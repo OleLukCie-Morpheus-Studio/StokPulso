@@ -1,12 +1,10 @@
 
 <img width="2522" height="1306" alt="itch io" src="https://github.com/user-attachments/assets/77b6b6bf-2b18-44e4-b192-7cba2249f341" />
-https://www.bilibili.com/opus/1106425309662543876?spm_id_from=333.1387.0.0
-Stokpulso Pro发布
-现在，你可以在itch.io免费获取这款工具
-https://olelukciestudio.itch.io/stokpulso
-Stokpulso Pro V1.0.0
-脉股智析-专业版
-我们将Agent智能体深度集成其中，它就像一位数据分析师，能自动处理数据，让分析变得简单、高效。
+# Stokpulso Pro 发布
+- 软件版本：Stokpulso Pro V1.0.0（脉股智析-专业版）
+- 核心特性：将Agent智能体深度集成其中，它就像一位数据分析师，能自动处理数据，让分析变得简单、高效。
+- 获取方式：可在itch.io免费获取，下载链接为 [https://olelukciestudio.itch.io/stokpulso](https://olelukciestudio.itch.io/stokpulso)
+- 发布平台：哔哩哔哩（对应发布页面链接：[https://www.bilibili.com/opus/1106425309662543876?spm_id_from=333.1387.0.0](https://www.bilibili.com/opus/1106425309662543876?spm_id_from=333.1387.0.0)）
 
 
 # StokPulso Pro 脉股智析-专业版 V1.0.0
