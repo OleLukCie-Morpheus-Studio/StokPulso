@@ -1,3 +1,5 @@
+https://i0.hdslb.com/bfs/new_dyn/5c53763b021a6c1c70d0e854dc5f62713546744845503351.png@1192w_618h_1c.webp
+
 # StokPulso Pro 脉股智析-专业版 V1.0.0
 
 ## 一、软件简介
